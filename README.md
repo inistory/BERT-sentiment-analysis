@@ -16,4 +16,10 @@ https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert
 
 ### Ours
 
-* Training Dataset : 2018-EI-oc-En-fear
+* Training Dataset : SemEval-2018 Task 1 – El-oc
+![image](https://user-images.githubusercontent.com/53829167/103154715-aa45a400-47dc-11eb-9c19-e1091b95b13c.png)
+
+Fear, anger, joy, sadness 의 감정 강도를 0,1,2,3으로 표현
+
+
+
