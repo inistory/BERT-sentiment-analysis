@@ -21,5 +21,11 @@ https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert
 
 Fear, anger, joy, sadness 의 감정 강도를 0,1,2,3으로 표현
 
+|          |     fear    |     joy    |     anger    |     sadness    |
+|:--------:|:-----------:|:----------:|:------------:|:--------------:|
+|     0    |     1490    |     548    |      445     |       594      |
+|     1    |      320    |     363    |      322     |       260      |
+|     2    |      249    |     346    |      507     |       364      |
+|     3    |      193    |     359    |      427     |       315      |
 
 
